@@ -108,12 +108,28 @@ Todos os slicers afetam todas as visualizações simultaneamente via relacioname
 
 ---
 
-## 💡 Principais Insights
+## 💡 Processo e Principais Insights
+
+📊 O que foi feito:
+→ Modelagem de dados com 3 tabelas relacionadas (Filmes, Produtoras e Países)
+→ Data cleaning
+→ Medidas em DAX: Bilheteria Total, ROI, Lucro Total e Bilheteria Média
+→ Gráfico de dispersão para identificar filmes de baixo orçamento com alta bilheteria
+→ KPIs, segmentadores interativos e 2 páginas de visualização
+→ Zero colunas calculadas — tudo resolvido com medidas para melhor performance
 
 - **Action** é o gênero com maior bilheteria total, seguido de Animation e Adventure
 - **Estados Unidos** domina em volume absoluto de bilheteria
 - **Marvel Studios** lidera entre as produtoras com ampla margem
 - Filmes como **City of God** (orçamento de $3,3M) demonstram alto retorno proporcional, aparecendo no quadrante de baixo orçamento / alta bilheteria no scatter chart
+
+---
+
+## 📊 Dashboard
+
+<img width="1150" height="641" alt="dash1" src="https://github.com/user-attachments/assets/391439d0-a1c8-4d36-b065-9a6f39d58f0c" />
+
+<img width="1152" height="646" alt="dash2" src="https://github.com/user-attachments/assets/18c8bc15-cd30-4cd2-983a-d79eee7a78e6" />
 
 ---
 
