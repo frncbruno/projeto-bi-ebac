@@ -111,12 +111,12 @@ Todos os slicers afetam todas as visualizações simultaneamente via relacioname
 ## 💡 Processo e Principais Insights
 
 📊 O que foi feito:
-→ Modelagem de dados com 3 tabelas relacionadas (Filmes, Produtoras e Países)
-→ Data cleaning
-→ Medidas em DAX: Bilheteria Total, ROI, Lucro Total e Bilheteria Média
-→ Gráfico de dispersão para identificar filmes de baixo orçamento com alta bilheteria
-→ KPIs, segmentadores interativos e 2 páginas de visualização
-→ Zero colunas calculadas — tudo resolvido com medidas para melhor performance
+- Modelagem de dados com 3 tabelas relacionadas (Filmes, Produtoras e Países)
+- Data cleaning
+- Medidas em DAX: Bilheteria Total, ROI, Lucro Total e Bilheteria Média
+- Gráfico de dispersão para identificar filmes de baixo orçamento com alta bilheteria
+- KPIs, segmentadores interativos e 2 páginas de visualização
+- Zero colunas calculadas — tudo resolvido com medidas para melhor performance
 
 - **Action** é o gênero com maior bilheteria total, seguido de Animation e Adventure
 - **Estados Unidos** domina em volume absoluto de bilheteria
